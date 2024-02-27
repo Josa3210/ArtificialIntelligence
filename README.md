@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # BerkeleyCourse
+=======
+# ArtificialIntelligence
+>>>>>>> BerkeleyCourse
